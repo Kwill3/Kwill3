@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William Lee
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Scala
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Rust
 
 <!---
 Kwill3/Kwill3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
